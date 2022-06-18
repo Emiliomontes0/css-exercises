@@ -1,0 +1,14 @@
+p{
+    background-color: lightpink;
+}
+p.Odd-cool{
+    font-size: 32px;
+}
+#Two{
+    color: blue;
+}
+#four{
+    background-color: green;
+    color: black;
+    font-weight: bold;
+}
